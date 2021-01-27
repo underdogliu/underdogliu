@@ -21,7 +21,7 @@ I am a student 👨🏻‍🏫 in the morning, a researcher 👨‍🎓 in the d
 
 When I'm not working, I love running 🏃, basketball 🏀, and heavy lifting.
 
-- 🔭 I’m currently trying to survive from a PhD degree on speech processing, main research interest is speaker verification and speech recognition (was for this one, now much less).
+- 🔭 I’m currently trying to survive from a PhD degree on speech processing, main research interests are speaker verification and speech recognition (was for this one, now much less).
 - 🌱 I’m currently learning how to program in Rust and Julia. Also trying to recap C++ by some mini projects.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with programming and better enginnering practice, in general.
