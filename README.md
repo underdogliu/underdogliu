@@ -19,7 +19,7 @@ My name is underdogliu, I'm a speech processing researcher from China🇨🇳. C
 
 I am a student 👨🏻‍🏫 in the morning, a researcher 👨‍🎓 in the daytime, and a open-source lover 🧑🏾‍💻 at night.
 
-When I'm not working, I love running 🏃, basketball 🏀, and heavy lifting.
+When I'm not working, I love running 🏃, basketball 🏀, and heavy lifting 🏋️.
 
 - 🔭 I’m currently trying to survive from a PhD degree on speech processing, main research interests are speaker verification and speech recognition.
 - 🌱 I’m currently learning how to program in Rust and Julia. Also trying to recap C++ by seeking some mini projects.
