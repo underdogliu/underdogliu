@@ -28,4 +28,4 @@ When I'm not working, I love running 🏃, basketball 🏀, football ⚽️, and
 - 📫 How to reach me: I have a [semi-academic website](https://underdogliu.github.io) with all details you wanna know. One of my goals for 2021 is to write more posts there (not easy to achieve though).
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact 1: I don't like intentional traveling at all but somehow I'm forced to be a nomad. Since the first time I went abroad, I've been living (not short-term traveling) at 6 different cities in 5 years.
-- ⚡ Fun fact 2: I'm a minimalist.
+- ⚡ Fun fact 2: I'm a minimalist (as a result of being a nomad).
