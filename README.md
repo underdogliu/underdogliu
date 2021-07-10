@@ -22,7 +22,7 @@ I am a student 👨🏻‍🏫 in the morning, a researcher 👨‍🎓 in the d
 When I'm not working, I love running 🏃, basketball 🏀, football ⚽️, and heavy lifting 🏋️.
 
 - 🔭 I’m currently trying to survive and obtain a PhD degree on speech processing. My main research interests are speaker verification and speech recognition.
-- 🌱 I’m currently learning how to program in Rust and Golang. Also trying to recap C++ by seeking some mini projects.
+- 🌱 I’m currently learning how to program in Rust. Also trying to recap C++ by seeking some mini projects.
 - 👯 I'm a team player in general. Research wise I'd like to be a bit independent though.
 - 🤔 I’m always looking for help with programming and better enginnering practice from everyone around.
 - 📫 How to reach me: I have a [semi-academic website](https://underdogliu.github.io) with all details you wanna know. One of my goals for 2021 is to write more posts there (not easy to achieve though).
