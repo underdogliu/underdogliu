@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is underdog, I'm from China 🇨🇳 but currently wondering around between 🇫🇷 and 🇫🇮. 
+My name is underdog, I'm from 🇨🇳 but currently wondering around between 🇫🇷 and 🇫🇮. 
 
 I am a student 👨🏻‍🏫 in the morning, a researcher 👨‍🎓 in the daytime, and a open-source lover 🧑🏾‍💻 at night.
