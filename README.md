@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm from 🇨🇳 but currently wondering around between 🇫🇷 and 🇫🇮. 
+I'm from 🇨🇳 but currently wondering around multiple countries. 
 
 I am a student 👨🏻‍🏫 in the morning, a researcher 👨‍🎓 in the daytime, and a open-source lover 🧑🏾‍💻 at night.
 
-[My Google Scholar](https://scholar.google.fi/citations?user=Xou0DaUAAAAJ&hl=zh-CN)
+[My Main Webpage](https://underdogliu.github.io)
